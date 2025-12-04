@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Woman meditating in a calm, natural setting with a serene smile",
+      "imageUrl": "https://images.unsplash.com/photo-1585639408964-b8938d59264e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3ZWxsbmVzcyUyMG1lZGl0YXRpb258ZW58MHx8fHwxNzY0NzIyNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wellness meditation"
+    }
+  ]
+}
